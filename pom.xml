@@ -26,6 +26,8 @@
       <url>http://13.232.161.58:8081/nexus/content/repositories/releases</url>
    </repository>
    </distributionManagement>
+    
+    
 
     <prerequisites>
         <maven>3.0.0</maven>
