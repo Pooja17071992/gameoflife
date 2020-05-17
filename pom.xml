@@ -28,7 +28,6 @@
    </distributionManagement>
     
     
-    
 
     <prerequisites>
         <maven>3.0.0</maven>
